@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BasketBallApplcation/1.0.0": {
+        "runtime": {
+          "BasketBallApplcation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasketBallApplcation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
